@@ -1,0 +1,42 @@
+---
+title: "Análises iniciais para o artigo do percentual de usuárias exclusivas do SUS"
+author: "Rafael Sant'Ana Herzog"
+editor: visual
+lang: pt
+execute:
+  echo: false           # Garante que nenhum código apareça
+  warning: false        # Remove avisos
+  message: false        # Remove mensagens
+format:
+  html:
+    page-layout: full
+    theme: cosmo
+    toc: true
+    toc-location: left
+    number-sections: true
+    embed-resources: true
+    fig-cap-location: top
+---
+
+<style>
+figcaption {
+  color: rgb(55, 58, 60) !important;
+  font-size: 0.95rem;
+}
+</style>
+
+<style>
+.quarto-figure figcaption {
+  text-align: center;
+  margin-bottom: 8px;
+}
+
+</style>
+
+# Introdução
+
+Este relatório tem como objetivo prover as análises iniciais para um possível futuro artigo a ser escrito, no qual temos interesse em estudar o comportamento temporal e espacial do indicador relacionado à porcentagem de mulheres de 10 a 49 anos usuárias exclusivas do SUS.
+
+# Análise temporal
+
+# Análise espacial
