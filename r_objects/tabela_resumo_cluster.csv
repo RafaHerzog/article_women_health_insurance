@@ -1,0 +1,5 @@
+"grupo","n","minimo","primeiro_qt","media","mediana","dp","terceiro_qt","maximo"
+"1: Percentual baixo de dependentes do SUS",368,1.7,53.32,58.06,60.3,7.75,64,66.8
+"2: Percentual intermediário de dependentes do SUS",790,66.9,72.3,75.6,76.1,4.12,79.1,81.8
+"3: Percentual alto de dependentes do SUS",1327,81.9,85.5,88.08,88.5,3.17,90.9,92.8
+"4: Percentual altíssimo de dependentes do SUS",3085,92.9,96.3,97.57,98.2,1.93,99.2,100

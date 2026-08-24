@@ -1,0 +1,5 @@
+"variavel","grupo","n","minimo","primeiro_qt","media","mediana","dp","terceiro_qt","maximo","p_valor_kruskal"
+"cob_suplementar","1: Lowest percentage of women with private health insurance",3231,0,0.7,2.087,1.5,1.68,3.2,6.2,"< 0.001"
+"cob_suplementar","2: Low percentage of women with private health insurance",1263,6.3,7.8,10.458,9.9,2.956,12.8,16.5,""
+"cob_suplementar","3: Intermediate percentage of women with private health insurance",738,16.6,19.2,22.709,22.2,4.083,25.9,31.4,""
+"cob_suplementar","4: High percentage of women with private health insurance",338,31.5,34.55,40.196,38.05,7.933,44.1,98.3,""

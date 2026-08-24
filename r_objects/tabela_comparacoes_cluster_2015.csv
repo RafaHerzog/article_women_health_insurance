@@ -1,0 +1,7 @@
+"","variavel","Compared groups","Dunn's statistic","Adjusted p-value","Cohen's d"
+"1","cob_suplementar","1: Lowest percentage of women with private health insurance vs 2: Low percentage of women with private health insurance",-42.063,"< 0.001",-3.464
+"2","cob_suplementar","1: Lowest percentage of women with private health insurance vs 3: Intermediate percentage of women with private health insurance",-48.682,"< 0.001",-6.52
+"3","cob_suplementar","1: Lowest percentage of women with private health insurance vs 4: High percentage of women with private health insurance",-38.63,"< 0.001",-7.332
+"4","cob_suplementar","2: Low percentage of women with private health insurance vs 3: Intermediate percentage of women with private health insurance",-12.496,"< 0.001",-3.465
+"5","cob_suplementar","2: Low percentage of women with private health insurance vs 4: High percentage of women with private health insurance",-14.058,"< 0.001",-5.481
+"6","cob_suplementar","3: Intermediate percentage of women with private health insurance vs 4: High percentage of women with private health insurance",-4.576,"< 0.001",-2.996

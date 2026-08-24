@@ -1,0 +1,31 @@
+"","variavel","Compared groups","Dunn's statistic","Adjusted p-value","Cohen's d"
+"1","razao_emprego_formal_pop_15_a_64","1: Lowest percentage of women with private health insurance vs 2: Low percentage of women with private health insurance",-31.75,"< 0.001",-1.17
+"2","razao_emprego_formal_pop_15_a_64","1: Lowest percentage of women with private health insurance vs 3: Intermediate percentage of women with private health insurance",-35.485,"< 0.001",-1.543
+"3","razao_emprego_formal_pop_15_a_64","1: Lowest percentage of women with private health insurance vs 4: High percentage of women with private health insurance",-31.07,"< 0.001",-2.065
+"4","razao_emprego_formal_pop_15_a_64","2: Low percentage of women with private health insurance vs 3: Intermediate percentage of women with private health insurance",-8.498,"< 0.001",-0.58
+"5","razao_emprego_formal_pop_15_a_64","2: Low percentage of women with private health insurance vs 4: High percentage of women with private health insurance",-11.791,"< 0.001",-1.157
+"6","razao_emprego_formal_pop_15_a_64","3: Intermediate percentage of women with private health insurance vs 4: High percentage of women with private health insurance",-5,"< 0.001",-0.548
+"7","idhm","1: Lowest percentage of women with private health insurance vs 2: Low percentage of women with private health insurance",-35.67,"< 0.001",-1.727
+"8","idhm","1: Lowest percentage of women with private health insurance vs 3: Intermediate percentage of women with private health insurance",-40.493,"< 0.001",-2.464
+"9","idhm","1: Lowest percentage of women with private health insurance vs 4: High percentage of women with private health insurance",-34.11,"< 0.001",-2.92
+"10","idhm","2: Low percentage of women with private health insurance vs 3: Intermediate percentage of women with private health insurance",-10.114,"< 0.001",-0.865
+"11","idhm","2: Low percentage of women with private health insurance vs 4: High percentage of women with private health insurance",-12.503,"< 0.001",-1.496
+"12","idhm","3: Intermediate percentage of women with private health insurance vs 4: High percentage of women with private health insurance",-4.519,"< 0.001",-0.72
+"13","porc_va_adespss","1: Lowest percentage of women with private health insurance vs 2: Low percentage of women with private health insurance",29.019,"< 0.001",1.212
+"14","porc_va_adespss","1: Lowest percentage of women with private health insurance vs 3: Intermediate percentage of women with private health insurance",29.838,"< 0.001",1.532
+"15","porc_va_adespss","1: Lowest percentage of women with private health insurance vs 4: High percentage of women with private health insurance",28.043,"< 0.001",1.997
+"16","porc_va_adespss","2: Low percentage of women with private health insurance vs 3: Intermediate percentage of women with private health insurance",5.482,"< 0.001",0.357
+"17","porc_va_adespss","2: Low percentage of women with private health insurance vs 4: High percentage of women with private health insurance",10.446,"< 0.001",0.946
+"18","porc_va_adespss","3: Intermediate percentage of women with private health insurance vs 4: High percentage of women with private health insurance",5.873,"< 0.001",0.626
+"19","porc_populacao_urbana","1: Lowest percentage of women with private health insurance vs 2: Low percentage of women with private health insurance",-23.951,"< 0.001",-0.908
+"20","porc_populacao_urbana","1: Lowest percentage of women with private health insurance vs 3: Intermediate percentage of women with private health insurance",-32.979,"< 0.001",-1.664
+"21","porc_populacao_urbana","1: Lowest percentage of women with private health insurance vs 4: High percentage of women with private health insurance",-28.909,"< 0.001",-2.156
+"22","porc_populacao_urbana","2: Low percentage of women with private health insurance vs 3: Intermediate percentage of women with private health insurance",-11.89,"< 0.001",-0.662
+"23","porc_populacao_urbana","2: Low percentage of women with private health insurance vs 4: High percentage of women with private health insurance",-14.002,"< 0.001",-1.088
+"24","porc_populacao_urbana","3: Intermediate percentage of women with private health insurance vs 4: High percentage of women with private health insurance",-4.663,"< 0.001",-0.439
+"25","porc_beneficiarios_bolsa_familia","1: Lowest percentage of women with private health insurance vs 2: Low percentage of women with private health insurance",31.89,"< 0.001",1.21
+"26","porc_beneficiarios_bolsa_familia","1: Lowest percentage of women with private health insurance vs 3: Intermediate percentage of women with private health insurance",31.007,"< 0.001",1.525
+"27","porc_beneficiarios_bolsa_familia","1: Lowest percentage of women with private health insurance vs 4: High percentage of women with private health insurance",22.404,"< 0.001",1.583
+"28","porc_beneficiarios_bolsa_familia","2: Low percentage of women with private health insurance vs 3: Intermediate percentage of women with private health insurance",4.467,"< 0.001",0.26
+"29","porc_beneficiarios_bolsa_familia","2: Low percentage of women with private health insurance vs 4: High percentage of women with private health insurance",3.624,"0.002",0.277
+"30","porc_beneficiarios_bolsa_familia","3: Intermediate percentage of women with private health insurance vs 4: High percentage of women with private health insurance",0.226,"1",0.008
